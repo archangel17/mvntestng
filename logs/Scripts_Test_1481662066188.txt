@@ -1,5 +1,0 @@
-[INFO-] - Driver Initialization
-[INFO-] - Navigate to URL: http://www.rbc.com
-[INFO-] - Click on signin
-[INFO-] - Element Clicked
-[INFO-] - WebDriver Closed

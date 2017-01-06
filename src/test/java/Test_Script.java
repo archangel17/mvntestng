@@ -8,7 +8,7 @@ import org.testng.asserts.*;
 import lib.*;
 import pages.Homepage;
 
-public class Scripts_Test extends base_script {
+public class Test_Script extends base_script {
 	
 	@BeforeMethod
 	public void init() {

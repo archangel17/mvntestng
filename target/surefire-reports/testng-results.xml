@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Scripts_Test" duration-ms="7806" started-at="2016-12-13T20:59:32Z" finished-at="2016-12-13T20:59:39Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="7806" started-at="2016-12-13T20:59:32Z" finished-at="2016-12-13T20:59:39Z">
+      <class name="Scripts_Test">
+        <test-method status="PASS" signature="init()[pri:0, instance:Scripts_Test@35fb3008]" name="init" is-config="true" duration-ms="3080" started-at="2016-12-13T15:59:32Z" finished-at="2016-12-13T15:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="script()[pri:0, instance:Scripts_Test@35fb3008]" name="script" duration-ms="4597" started-at="2016-12-13T15:59:35Z" finished-at="2016-12-13T15:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+        <test-method status="PASS" signature="cleanup()[pri:0, instance:Scripts_Test@35fb3008]" name="cleanup" is-config="true" duration-ms="104" started-at="2016-12-13T15:59:39Z" finished-at="2016-12-13T15:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanup -->
+      </class> <!-- Scripts_Test -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Scripts_Test -->
+</testng-results>

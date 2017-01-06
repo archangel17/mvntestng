@@ -1,0 +1,7 @@
+[INFO-] - Driver Initialization
+[INFO-] - Navigate to URL: http://www.rbc.com
+[INFO-] - Verify URL to match: null
+[ERROR] - Failed to retrieve URL
+[INFO-] - Click on signin
+[INFO-] - Element Clicked
+[INFO-] - WebDriver Closed

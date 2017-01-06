@@ -1,0 +1,2 @@
+[INFO-] - Driver Initialization
+[INFO-] - WebDriver Closed

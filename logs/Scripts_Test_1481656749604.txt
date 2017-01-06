@@ -1,0 +1,4 @@
+[INFO-] - Driver Initialization
+[INFO-] - Navigate to URL: http://www.rbc.com/canada.html
+[INFO-] - Element Clicked
+[INFO-] - WebDriver Closed
